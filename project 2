@@ -3,7 +3,7 @@
 </HEAD>
 <TITLE> Practical No.2
 </TITLE>
-<BODY BGCOLOR = "POWDER BLUE">
+<BODY BGCOLOR = "Green">
 <P>The is a paragraph tag. It helps structure content into readable blocks, making the page more organized and accessible.<BR>This is the first paragraph of text.
 <P>This is a second paragraph.a fundamental element used to define a paragraph of text on a web page. <BR>It helps structure content into readable blocks, making the page more organized and accessible. </P>
 <I>This is a italic tag used in HTML. EX:-Sb jain institute of technology and managment</I>
